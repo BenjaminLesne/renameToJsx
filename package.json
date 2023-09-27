@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node renameToJsx.js"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.21.4",
+    "@babel/traverse": "^7.21.4"
+  }
+}
